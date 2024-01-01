@@ -17,7 +17,7 @@ async function openai(req,res) {
 //   const word = req.query.word;
      console.log(topic);
   const header = {
-    Authorization: "Bearer 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",
+   
     "Content-Type": "application/json",
   };
 
